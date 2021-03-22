@@ -19,7 +19,7 @@ a {
   color: #333;
 }
 a:hover {
-  color: #ff1227;
+  color: #b0c4de;
 }
 .box {
   position: relative;
@@ -157,7 +157,7 @@ code {
   color: #484850;
 }
 .post .post-title a:hover {
-  color: #ff1227;
+  color: #b0c4de;
 }
 .post .post-meta {
   margin-top: 15px;
